@@ -3,7 +3,7 @@ import "./App.css";
 import MenuItem from "./components/MenuItem";
 import AboutSection from "./components/AboutSection";
 import ContactSection from "./components/ContactSection";
-import Navigation from "./components/Naviigation";
+import Navigation from "./components/Navigation";
 import CafeHighlights from "./components/CafeHighlights";
 import Footer from "./components/Footer";
 import heroCafeImage from "./assets/images/hero-cafe.webp";
